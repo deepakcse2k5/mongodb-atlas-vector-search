@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 import sys
-sys.path.append('/Users/deemish2/mongodb-vector-search')
+sys.path.append('mongodb-vector-search')
 from util import config
 import numpy as np
 
