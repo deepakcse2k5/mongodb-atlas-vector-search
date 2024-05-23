@@ -1,0 +1,17 @@
+pymongo
+llama-index
+llama-index-vector-stores-mongodb
+llama-index-embeddings-openai
+datasets
+pandas
+matplotlib
+superduperdb
+sentence_transformers
+langchain-mongodb
+langchain-community
+pdfplumber
+pymongo
+llama_index
+langchain
+
+
